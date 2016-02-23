@@ -1,0 +1,15 @@
+#listMatkul{
+	color: #000000 !important;
+}
+#listMatkul:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	cursor: pointer;
+}
+#id_profile{
+  position: absolute;
+  width: 250px;
+}
+#id_jurusan{
+  position: absolute;
+  width: 250px;
+}
